@@ -1,19 +1,19 @@
 # SQL-AD-HOC-Analysis
-# SQL Project: Ad-Hoc Analysis
-Table of Contents
-Introduction
-Project Objectives
-Dataset
-Analysis Performed
-Key Findings
-Technologies Used
-How to Use
-Contributing
-License
-Introduction
-This project demonstrates the use of SQL for conducting ad-hoc data analysis to extract valuable insights and answer business questions. The analysis focuses on dynamic querying and problem-solving without predefined reporting structures.
 
-Project Objectives
+## Table of Contents
+* Introduction
+- Project Objectives
++ Dataset
+* Analysis Performed
+- Key Findings
++ Technologies Used
+* How to Use
+- Contributing
++ License </br>
+### Introduction
+This project demonstrates the use of SQL for conducting ad-hoc data analysis to extract valuable insights and answer business questions. The goal is to answer specific business questions and uncover insights without a fixed report structure.
+
+### Project Objectives
 Perform flexible and exploratory data analysis using SQL queries.
 Answer specific business questions to inform decision-making.
 Identify trends, patterns, and anomalies in the data.
