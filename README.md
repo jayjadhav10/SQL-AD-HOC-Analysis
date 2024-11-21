@@ -6,6 +6,7 @@
 * Analysis Performed
 - Key Insights
 + Technologies Used
+* Links
 
 ### Introduction
 This project demonstrates the use of SQL for conducting ad-hoc data analysis to extract valuable insights and answer business questions. The goal is to answer specific business questions and uncover insights.
@@ -39,7 +40,11 @@ Key insights derived from the analysis include:
 [Finding 2: e.g., High churn rate in specific regions.]
 [Finding 3: e.g., Revenue trends by seasonality.]
 
-Technologies Used
-SQL Database: Mysql Database
-Tool for Visualization : Power BI
+### Technologies Used
+* SQL Database: Mysql Database
+- Tool for Visualization : Power BI
+
+### Links
+SQL Queries- [https://github.com/jayjadhav10/SQL-AD-HOC-Analysis]
+Power BI File- 
 
