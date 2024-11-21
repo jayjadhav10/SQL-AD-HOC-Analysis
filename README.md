@@ -8,7 +8,7 @@
 + Technologies Used
 
 ### Introduction
-This project demonstrates the use of SQL for conducting ad-hoc data analysis to extract valuable insights and answer business questions. The goal is to answer specific business questions and uncover insights without a fixed report structure.
+This project demonstrates the use of SQL for conducting ad-hoc data analysis to extract valuable insights and answer business questions. The goal is to answer specific business questions and uncover insights.
 
 ### Project Objectives
 * Use SQL to explore data and find answers to business questions.
