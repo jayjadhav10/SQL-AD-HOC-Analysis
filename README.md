@@ -45,6 +45,6 @@ Key insights derived from the analysis include:
 - Tool for Visualization : Power BI
 
 ### Links
-SQL Queries- [https://github.com/jayjadhav10/SQL-AD-HOC-Analysis]
-Power BI File- 
+SQL Queries- [https://github.com/jayjadhav10/SQL-AD-HOC-Analysis] <br/>
+Power BI File- []
 
