@@ -36,9 +36,15 @@ and more...
 
 ### Key Insights
 Key insights derived from the analysis include:
-[Finding 1: e.g., Top 5 products contributing 60% of revenue.]
-[Finding 2: e.g., High churn rate in specific regions.]
-[Finding 3: e.g., Revenue trends by seasonality.]
+1. Market Operations: Identified the markets where the customer "Atliq Exclusive" operates in the APAC region.
+
+2. Product Analysis:
+Calculated the percentage increase in unique products from 2020 to 2021.
+Generated a breakdown of unique product counts for each segment, sorted in descending order.
+Identified the segment with the most significant increase in unique products from 2020 to 2021.
+3. Cost Insights: Found products with the highest and lowest manufacturing costs.
+
+and more...
 
 ### Technologies Used
 * SQL Database: Mysql Database
