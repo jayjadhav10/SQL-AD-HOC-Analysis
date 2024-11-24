@@ -46,5 +46,5 @@ Key insights derived from the analysis include:
 
 ### Links
 SQL Queries- [https://github.com/jayjadhav10/SQL-AD-HOC-Analysis/tree/main/SQL%20FILES] <br/>
-Power BI File- []
+Power BI File- [https://github.com/jayjadhav10/SQL-AD-HOC-Analysis/blob/main/solution.pbix]
 
